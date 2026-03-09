@@ -1,3 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Pranav%20Yadav&fontSize=60&fontColor=ffffff)
+
+# Hi 👋 I'm Pranav Yadav
+
+💻 Computer Science Student  
+🚀 Interested in DSA, DevOps, and Full Stack Development
+
 # Hi 👋 I'm Pranav Yadav
 
 💻 Computer Science Student  
@@ -21,6 +28,8 @@
 ## 📊 GitHub Stats
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavyadav12345&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavyadav12345&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavyadav12345&layout=compact&theme=tokyonight)
 
