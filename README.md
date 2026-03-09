@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Pranav%20Yadav&fontSize=60&fontColor=ffffff)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&height=100&lines=PRANAV+YADAV;FULL+STACK+DEVELOPER;DEVOPS+LEARNER;DSA+ENTHUSIAST"/>
+</p>
 
-# Hi 👋 I'm Pranav Yadav
-
-💻 Computer Science Student  
-🚀 Interested in DSA, DevOps, and Full Stack Development
 
 # Hi 👋 I'm Pranav Yadav
 
